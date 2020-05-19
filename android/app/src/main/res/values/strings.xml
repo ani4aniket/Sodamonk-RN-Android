@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sodamonk</string>
+    <string name="facebook_app_id">634099767088343</string>
+    <string name="fb_login_protocol_scheme">fb634099767088343</string>
+</resources>
